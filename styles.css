@@ -1,6 +1,10 @@
-body, nav, main, h1 {
+body, nav, main, h1, img {
   text-decoration: none; 
 }
 main {
   background-color: magenta;
+}
+img {
+  max-width: 100%;
+  border-radius: 8px;
 }
