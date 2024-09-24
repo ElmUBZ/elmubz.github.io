@@ -1,3 +1,6 @@
 body, nav, main, h1 {
   text-decoration: none; 
 }
+body {
+  background-color: magenta;
+}
